@@ -2,7 +2,7 @@ APScheduler==3.3.1
 Flask==0.12.2
 Flask-Assets==0.12
 Jinja2==2.9.6
-Werkzeug==0.12.2
+Werkzeug==3.1.9
 certifi==2017.4.17
 chardet==3.0.3
 click==6.7
@@ -26,6 +26,6 @@ six==1.10.0
 soco==0.12
 tzlocal==1.4
 uritemplate==3.0.0
-urllib3==1.21.1
+urllib3==2.8.0
 webassets==0.12.1
 xmltodict==0.11.0
